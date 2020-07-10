@@ -3,12 +3,12 @@
   background-color: darkslategray;
 }
 li{
-  font-size:2px;
+  font-size:large;
   font-style: oblique;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h1{
-  font-size:6px;
+  font-size:x-large;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: initial;
 }
